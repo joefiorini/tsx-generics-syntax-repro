@@ -10,4 +10,6 @@ Plug 'leafgarland/typescript-vim'
 " vim-tsx will do all the coloring for jsx in the .tsx file
 Plug 'peitalin/vim-jsx-typescript'
 
+Plug 'gerw/vim-HiLinkTrace'
+
 call plug#end()
