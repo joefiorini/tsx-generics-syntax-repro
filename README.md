@@ -3,5 +3,5 @@ You'll need vim-plugged to run this example (or replace the `Plug` calls in `ini
 I'm using a recent build of NeoVim. Open nvim using:
 
 ```
-nvim -u test.tsx
+nvim -u init.vim test.tsx
 ```
